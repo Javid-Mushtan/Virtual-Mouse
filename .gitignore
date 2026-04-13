@@ -1,0 +1,70 @@
+# ─────────────────────────────
+# Python cache files
+# ─────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ─────────────────────────────
+# Virtual environment
+# ─────────────────────────────
+venv/
+env/
+ENV/
+.venv/
+
+# ─────────────────────────────
+# Distribution / packaging
+# ─────────────────────────────
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ─────────────────────────────
+# Logs
+# ─────────────────────────────
+*.log
+
+# ─────────────────────────────
+# Jupyter Notebook checkpoints
+# ─────────────────────────────
+.ipynb_checkpoints/
+
+# ─────────────────────────────
+# IDE / Editor files
+# ─────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# ─────────────────────────────
+# OS files
+# ─────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ─────────────────────────────
+# Media / output files
+# ─────────────────────────────
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.avi
+
+# (optional: remove this if you want to keep screenshots)
+screenshot.png
+
+# ─────────────────────────────
+# Environment variables
+# ─────────────────────────────
+.env
+
+# ─────────────────────────────
+# PyAutoGUI / temp files (optional)
+# ─────────────────────────────
+*.tmp
