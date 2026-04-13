@@ -115,7 +115,7 @@ python main.py
 ## 👨‍💻 Author
 
 **Your Name**
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/javidmushtan
 
 ---
 
